@@ -1,0 +1,43 @@
+This document contains links and references for things 
+mentioned in the Presentation.
+
+Competitive Programming Websites:
+
+1. Project Euler: projecteuler.net
+2. CodeChef: codechef.com
+3. HackerEarth: hackerearth.com
+
+Internships:
+
+1. internshala.com
+
+Various Resources for Learning Things Online:
+
+1. Traversy Media (Formerly Brad Traversy): https://www.youtube.com/user/TechGuyWeb/
+
+This channel is really good for learning web development.
+
+2. Chris Hawkes: https://www.youtube.com/user/noobtoprofessional
+
+Great for discussion about popular programming topics.
+
+3. Derek Banas: https://www.youtube.com/user/derekbanas
+
+Great for learning any language (Such as Python, Java, etc.) Check out
+the learn in 1 video playlist:
+
+https://www.youtube.com/playlist?list=PLGLfVvz_LVvRX6xK1oi0reKci6ignjdSa
+
+It contains a single in-depth video about a lot of popular languages.
+
+4. Siraj Raval: https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A
+
+5. Udemy: Paid courses. Try to find discount coupons online.
+
+6. Udacity: Great for learning Deep Learning (Andrew Ng, Siraj Raval, Google have courses
+on related topics)
+
+7. Cracking the Coding Interview: https://www.amazon.in/Cracking-Coding-Interview-Programing-Questions/dp/0984782850
+
+(You can find online copies of the book)
+
